@@ -43,6 +43,9 @@ Here are the steps I took to resolve the issue:
 
 A follow up email was sent to the end user instructing her to sign in using the temporary password and create a new password upon successful logon. After successfully resolving the issue, the ticket was closed.
 
+<img width="853" height="279" alt="ticket1-2" src="https://github.com/user-attachments/assets/1b6f203c-aa68-49d7-b2cf-0f4bdbed9a75" />
+
+
 ## Ticket 02 - Account Unlock
 
 ### Ticket Summary
@@ -52,13 +55,14 @@ A follow up email was sent to the end user instructing her to sign in using the 
 - **Priority:** Low
 - **Status:** Resolved
 
-a member of teh sales team submitted a ticket indicating that her account had become locked after multiple unsuccessful login attempts. An initial response was sent to confirm the issue was being reviewed and that an update would follow shortly.
+a member of the sales team submitted a ticket indicating that her account had become locked after multiple unsuccessful login attempts. An initial response was sent to confirm the issue was being reviewed and that an update would follow shortly.
 
-IMAGE
+<img width="857" height="478" alt="ticket2-1" src="https://github.com/user-attachments/assets/84d35006-404d-40cf-8a63-cca0a7ab3243" />
 
 Again, because the issue affected a single user and there was no indication of time sensitivity, the priority was set to low.
 
-IMAGE
+<img width="145" height="78" alt="priority_low" src="https://github.com/user-attachments/assets/937ca802-d4fb-40d7-b5ae-fb2601d187b2" />
+
 
 Here are the steps I took to resolve the issue:
 
@@ -67,6 +71,10 @@ Here are the steps I took to resolve the issue:
 3. Verified the account was not disabled or expired
 4. Unlocked the user account in Active Directory
 
-2 IMAGES
+<img width="1007" height="751" alt="ad_account_locked" src="https://github.com/user-attachments/assets/3cf9a558-f905-4201-972c-9385c8b08f82" />
+<img width="820" height="1075" alt="ad_account_unlocked" src="https://github.com/user-attachments/assets/3f20b525-d7b6-4b10-9706-436e4e9ea65c" />
+<img width="1009" height="751" alt="login successful" src="https://github.com/user-attachments/assets/f4b32f64-d600-4d7b-97db-9836b2c295f0" />
+
 
 A follow up email was sent confirming that the account had been unlocked and instructing the user to attempt signing in again. She was advised to reach out if any further issues occurred, and the ticket was closed.
+<img width="792" height="253" alt="ticket2-2" src="https://github.com/user-attachments/assets/e1a50065-cbc9-4962-9c6e-bf41ab3fd9d8" />
