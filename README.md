@@ -11,11 +11,9 @@ Simulate a Tier 1 help desk environment using Zendesk to handle real world suppo
 - Active Directory account management
 - Clear, professional end user communication
 
-## Showcase
+## Ticket 01 - Password Reset
 
-### Ticket 01 - Password Reset
-
-#### Ticket Summary
+### Ticket Summary
 - **Ticket ID:** 001
 - **Channel:** Email
 - **Category:** Account Access
@@ -42,11 +40,9 @@ Here are the steps I took to resolve the issue:
 
 A follow up email was sent to the end user instructing her to sign in using the temporary password and create a new password upon successful logon. After successfully resolving the issue, the ticket was closed.
 
----
+## Ticket 02 - Account Unlock
 
-### Ticket 02 - Account Unlock
-
-#### Ticket Summary
+### Ticket Summary
 - **Ticket ID:** 002
 - **Channel:** Email
 - **Category:** Account Access
