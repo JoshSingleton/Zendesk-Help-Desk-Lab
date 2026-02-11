@@ -23,11 +23,13 @@ Simulate a Tier 1 help desk environment using Zendesk to handle real world suppo
 
 A member of the sales team submitted a ticket in the morning stating that she had forgotten her password and requested a reset. An initial email was sent to acknowledge the request and confirm that the issue was being worked on.
 
-IMAGE
+<img width="861" height="520" alt="ticket1-1" src="https://github.com/user-attachments/assets/417fea75-7cc8-4b6f-b504-e6ea4186dd66" />
+
 
 Because the issue affected a single user and there was no indication of time sensitivity, the priority was set to low.
 
-IMAGE
+<img width="145" height="78" alt="priority_low" src="https://github.com/user-attachments/assets/2e2c6dd6-cffd-443a-aacd-360197632577" />
+
 
 Here are the steps I took to resolve the issue:
 
@@ -36,7 +38,8 @@ Here are the steps I took to resolve the issue:
 3. Reset the user’s password in Active Directory
 4. Verified “User must change password at next logon” was enabled
 
-2 IMAGES 
+<img width="1506" height="1056" alt="reset password" src="https://github.com/user-attachments/assets/d316edb0-a304-4e0f-9112-21038abbecee" />
+<img width="1009" height="751" alt="login successful" src="https://github.com/user-attachments/assets/ef8915a0-910f-476f-bc84-3182ef501fae" />
 
 A follow up email was sent to the end user instructing her to sign in using the temporary password and create a new password upon successful logon. After successfully resolving the issue, the ticket was closed.
 
